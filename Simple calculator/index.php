@@ -9,11 +9,11 @@
             <input type="text" name="numb1">
             <select name="operator" id="">
                <option>None</option>
-               <option>+</option>
-               <option>-</option>
-               <option>*</option>
-               <option>/</option>
-               <option>^2</option>
+               <option>Add</option>
+               <option>Subtract</option>
+               <option>Multiply</option>
+               <option>Divide</option>
+               <option>Squre</option>
             </select>
             <input type="text" name="numb2">
             <button type="submit" name="submit" value="submit">Calculate</button>
